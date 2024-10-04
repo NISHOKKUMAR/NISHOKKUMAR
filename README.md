@@ -15,13 +15,17 @@
 
 # Programming Languages
 
-- ![HTML](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-2965F1?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
+<div style="display: flex; justify-content: space-around;">
+
+    <img src="https://img.shields.io/badge/HTML-F16529?style=flat&logo=html5&logoColor=white" width="120" height="40" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS-2965F1?style=flat&logo=css3&logoColor=white" width="120" height="40" alt="CSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="120" height="40" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" width="120" height="40" alt="C"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="120" height="40" alt="C++"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="120" height="40" alt="Python"/>
+    <img src="https://img.shields.io/badge/PHP-4F5B93?style=flat&logo=php&logoColor=white" width="120" height="40" alt="PHP"/>
+
+</div>
 
 
 
