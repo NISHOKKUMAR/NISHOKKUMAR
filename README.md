@@ -1,4 +1,4 @@
-#About Me
+# About Me
 
 👨‍💻 Full Stack Developer: Experienced in building dynamic web applications with a focus on both front-end and back-end development.
 
@@ -15,13 +15,22 @@
 
 # Programming Languages
 
-<div style="display: flex; gap: 10px;">
-    <div style="background-color: #f0db4f; padding: 10px; border-radius: 5px; color: #333;">HTML</div>
-    <div style="background-color: #2965f1; padding: 10px; border-radius: 5px; color: white;">CSS</div>
-    <div style="background-color: #f7df1e; padding: 10px; border-radius: 5px; color: #333;">JavaScript</div>
-    <div style="background-color: #00599c; padding: 10px; border-radius: 5px; color: white;">C</div>
-    <div style="background-color: #00599c; padding: 10px; border-radius: 5px; color: white;">C++</div>
-    <div style="background-color: #3572A5; padding: 10px; border-radius: 5px; color: white;">Python</div>
-    <div style="background-color: #4F5B93; padding: 10px; border-radius: 5px; color: white;">PHP</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+    <div style="background-color: #f0db4f; padding: 10px; border-radius: 5px; color: #333; width: 100px; text-align: center;">HTML</div>
+    
+    <div style="background-color: #2965f1; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">CSS</div>
+    
+    <div style="background-color: #f7df1e; padding: 10px; border-radius: 5px; color: #333; width: 100px; text-align: center;">JavaScript</div>
+    
+    <div style="background-color: #00599c; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">C</div>
+    
+    <div style="background-color: #00599c; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">C++</div>
+    
+    <div style="background-color: #3572A5; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">Python</div>
+    
+    <div style="background-color: #4F5B93; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">PHP</div>
+
 </div>
+
 
