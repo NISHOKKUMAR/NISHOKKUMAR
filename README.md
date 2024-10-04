@@ -15,22 +15,13 @@
 
 # Programming Languages
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+- ![HTML](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-2965F1?style=flat-square&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=flat-square&logo=php&logoColor=white)
 
-    <div style="background-color: #f0db4f; padding: 10px; border-radius: 5px; color: #333; width: 100px; text-align: center;">HTML</div>
-    
-    <div style="background-color: #2965f1; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">CSS</div>
-    
-    <div style="background-color: #f7df1e; padding: 10px; border-radius: 5px; color: #333; width: 100px; text-align: center;">JavaScript</div>
-    
-    <div style="background-color: #00599c; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">C</div>
-    
-    <div style="background-color: #00599c; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">C++</div>
-    
-    <div style="background-color: #3572A5; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">Python</div>
-    
-    <div style="background-color: #4F5B93; padding: 10px; border-radius: 5px; color: white; width: 100px; text-align: center;">PHP</div>
-
-</div>
 
 
