@@ -49,4 +49,27 @@
 ![Hydra](https://img.shields.io/badge/Hydra-FF6F61?style=for-the-badge&logo=hydra&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF4800?style=for-the-badge&logo=burpsuite&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![Wireshark](https://img.shields.io/badge/Wireshark-3C4D8D?style=for-the-badge&logo=wireshark&logoColor=white) &nbsp;&nbsp;&nbsp;
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-007F5C?style=for-the-badge&logo=nmap&logoColor=white)
+
+
+## 🎓 Certifications
+
+### 🌐 Learn the Art of Hacking through Programming (**LAHTP**)
+**Provider:** Sibidharan, SNA  
+**🛠️ Skills Acquired:**  
+- A strong foundation in programming principles  
+- Development of custom hacking tools  
+- Proficiency in utilizing popular hacking tools  
+- Comprehensive understanding of ethical hacking methodologies  
+
+---
+
+### 🐞 Learn Bug Bounty Hunting & Web Security Testing From Scratch
+**Provider:** Zaid Sabih  
+**🛠️ Skills Acquired:**  
+- Effective strategies for successful bug bounty hunting  
+- Practical web security testing techniques  
+- Thorough methods for vulnerability assessment  
+
+
+
