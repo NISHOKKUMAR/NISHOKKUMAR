@@ -52,7 +52,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-007F5C?style=for-the-badge&logo=nmap&logoColor=white)
 
 
-## 🎓 Certifications
+# Certifications
 
 ### 🌐 Learn the Art of Hacking through Programming (**LAHTP**)
 **Provider:** Sibidharan, SNA  
