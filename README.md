@@ -1,19 +1,32 @@
 # About Me
 
-👨‍💻 Full Stack Developer: Experienced in building dynamic web applications with a focus on both front-end and back-end development.
+## 👨‍💻 Experienced System Administrator & Web Security Enthusiast
 
-🛠 Internship Experience: Completed an internship at Stigmata, where I enhanced my technical skills and worked on real-world projects.
+## 🛠 Internship Experience
 
-🔍 Web Security Enthusiast: Passionate about web security and ethical hacking. Gained hands-on experience through bug bounty programs.
+Completed an internship at Stigmata, where I enhanced my technical skills and worked on real-world projects
 
-📚 Continuous Learning: Completed the Learn Hacking via Programming (LAHTP) course by SNA, deepening my understanding of web penetration testing and security practices.
+## ☁️ Cloud Experience
 
-🌱 Eager Learner: Always seeking new challenges and opportunities to grow my skill set in tech.
+Proficient with AWS for managing cloud infrastructure, including EC2, S3, and RDS, ensuring uptime and high availability for critical applications.
 
-🤝 Open to Collaboration: Enjoy working with others and contributing to open-source projects. Let’s connect and collaborate!
+## ⚙️ Automation & Configuration
 
+Experienced with Ansible for automating routine system tasks, improving efficiency, and ensuring consistency across environments.
 
+## 🔍 Web Security Enthusiast
 
+Passionate about web security and ethical hacking. Gained hands-on experience through bug bounty programs and system penetration testing.
+
+## 📚 Continuous Learning
+
+Completed the Learn Hacking via Programming (LAHTP) course by SNA, strengthening my skills in web security, vulnerability scanning, and penetration testing.
+
+## 🤝 Eager Collaborator & Growth-Oriented
+
+Passionate about teamwork and contributing to *critical IT infrastructure projects*. Always excited to learn new skills and grow alongside fellow enthusiasts. Seeking mentorship opportunities to accelerate my learning journey in system administration and related fields. Let's connect and build robust systems together!
+
+<br>
 
 # Programming Languages
 
@@ -26,8 +39,6 @@
 ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
 
 
-
-
 # Frontend & Backend Technologies
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) &nbsp;&nbsp;&nbsp;
@@ -36,11 +47,18 @@
 
 
 
+# Infrastructure Management & Monitoring
+
+![AWS](https://img.shields.io/badge/AWS-F16529?style=for-the-badge&logo=amazonaws&logoColor=white) &nbsp;&nbsp;&nbsp;
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) &nbsp;&nbsp;&nbsp;
+![Zabbix](https://img.shields.io/badge/Zabbix-FF6F61?style=for-the-badge&logo=zabbix&logoColor=white)
+
+
 
 # Hacking Tools
 
 ![Wappalyzer](https://img.shields.io/badge/Wappalyzer-8A3FFC?style=for-the-badge&logo=wappalyzer&logoColor=white) &nbsp;&nbsp;&nbsp;
-![Sublist3r](https://img.shields.io/badge/Sublist3r-000000?style=for-the-badge&logo=sublist3r&logoColor=white) &nbsp;&nbsp;&nbsp;
+![Sublist3r](https://img.shields.io/badge/Sublist3r-EE00000?style=for-the-badge&logo=sublist3r&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![Feroxbuster](https://img.shields.io/badge/Feroxbuster-FF0000?style=for-the-badge&logo=feroxbuster&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![FFUF](https://img.shields.io/badge/FFUF-FF4500?style=for-the-badge&logo=ffuf&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![SQLMap](https://img.shields.io/badge/SQLMap-00A1E4?style=for-the-badge&logo=sqlmap&logoColor=white) &nbsp;&nbsp;&nbsp;
@@ -49,6 +67,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-3C4D8D?style=for-the-badge&logo=wireshark&logoColor=white) &nbsp;&nbsp;&nbsp;
 ![Nmap](https://img.shields.io/badge/Nmap-007F5C?style=for-the-badge&logo=nmap&logoColor=white)
 
+<br>
 
 # Certifications
 
